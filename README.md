@@ -1,4 +1,4 @@
-supareting even and odd numbers
+separating even and odd numbers
 
 Open the numbers.txt file in write mode.
 
